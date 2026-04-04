@@ -1,12 +1,12 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Hero from './pages/Hero'
-import About from './pages/About'
-import Projects from './pages/Projects'
-import Experience from './pages/Experience'
-import Testimonials from './pages/Testimonials'
-import Contact from './pages/Contact'
-import Footer from './components/Footer'
+import Navbar from './components/Navbar.jsx'
+import Hero from './pages/Hero.jsx'
+import About from './pages/About.jsx'
+import Projects from './pages/Projects.jsx'
+import Experience from './pages/Experience.jsx'
+import Testimonials from './pages/Testimonials.jsx'
+import Contact from './pages/Contact.jsx'
+import Footer from './components/Footer.jsx'
 
 
 const App = () => {

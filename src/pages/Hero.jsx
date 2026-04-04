@@ -1,8 +1,8 @@
 import React from "react";
-import Button from "../components/Button";
+import Button from "../components/Button.jsx";
 import { ArrowRight, ChevronDown, Download } from "lucide-react";
 import { SocialIcon } from "react-social-icons";
-import { AnimatedBorderButton } from "../components/AnimateBorderButton";
+import { AnimatedBorderButton } from "../components/AnimateBorderButton.jsx";
 
 const skills = [
   "React",
