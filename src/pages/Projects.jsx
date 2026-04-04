@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
 import React from "react";
 import { SocialIcon } from "react-social-icons";
-import { AnimatedBorderButton } from "../components/AnimateBorderButton.jsx
+import { AnimatedBorderButton } from "../components/AnimateBorderButton.jsx"
 
 const projects = [
   {
