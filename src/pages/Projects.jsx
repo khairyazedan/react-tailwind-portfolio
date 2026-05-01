@@ -22,6 +22,24 @@ const projects = [
     link: "#",
     github: "https://github.com/khairyazedan/SocialMedia_NextApp_MySQL",
   },
+  {
+    title: "User Management API",
+    description:
+      "A RESTful Web API built with ASP.NET Core and Entity Framework Core for managing users with full CRUD operations. Designed with clean architecture principles, asynchronous database operations, and scalable backend structure. Demonstrates API development, database integration, and efficient data handling using SQL Server.",
+    image: "/projects/DotNetProject.png",
+    tags: [
+      "ASP.NET Core",
+      "C#",
+      "Entity Framework Core",
+      "SQL Server",
+      "REST API",
+      "CRUD",
+      "Async/Await",
+      "Web API"
+    ],
+    link: "#",
+    github: "https://github.com/khairyazedan/dotnet-sql-api-crud",
+  }
 ];
 
 const Projects = () => {
