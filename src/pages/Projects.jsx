@@ -39,7 +39,24 @@ const projects = [
     ],
     link: "#",
     github: "https://github.com/khairyazedan/dotnet-sql-api-crud",
-  }
+  },
+  {
+  title: "Live Code Editor",
+  description:
+    "A browser-based live code editor built with vanilla JavaScript and Ace Editor. Features separate tabs for HTML, CSS, and JavaScript with real-time preview inside a sandboxed iframe. Includes a test runner for validating JavaScript solutions, save/load projects as JSON, and localStorage auto-save. No backend or framework required.",
+  image: "/projects/CodeEditor.png",
+  tags: [
+    "Vanilla JavaScript",
+    "HTML5",
+    "CSS3",
+    "Ace Editor",
+    "localStorage",
+    "Sandbox",
+    "iframe",
+  ],
+  link: "#",
+  github: "https://github.com/khairyazedan/Code-Editor-HTML-CSS-JS",
+}
 ];
 
 const Projects = () => {
